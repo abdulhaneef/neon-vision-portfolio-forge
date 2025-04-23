@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
         <div className="flex flex-col items-center text-center">
           <p className="text-accent1 mb-4 font-medium tracking-wider">WELCOME TO MY PORTFOLIO</p>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6">
-            I'm <span className="text-gradient">Alex Morgan</span>
+            I'm <span className="text-gradient">Abdul Haneef Mohamad</span>
           </h1>
           <p className="text-2xl md:text-3xl text-light/80 mb-4">Digital Accessibility & UI Leader</p>
           <p className="text-lg md:text-xl max-w-3xl mx-auto mb-8 text-light/70">

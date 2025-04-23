@@ -16,7 +16,7 @@ const Header: React.FC = () => {
       
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <a href="#" className="text-xl font-bold text-gradient">
-          Alex<span className="font-light">Morgan</span>
+          Abdul<span className="font-light">Mohamad</span>
         </a>
 
         {/* Desktop Navigation */}
